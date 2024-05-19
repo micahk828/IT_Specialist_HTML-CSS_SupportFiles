@@ -27,14 +27,18 @@ figcaption {
     padding:5em;
 }
 #sidenote {
-    background-color: #DDDDDD;
+    background-color: #333333;
     display:inline;
+    color: #f7d2aa;
     /*border-color:navy;
     border-style:dashed;
     border-width:0px;
     border-left-width:2px;
     border-right-width:2px;*/
     border: 2px solid navy;
+}
+#pagewidth{
+    width:500px;
 }
 a {
     text-decoration: none;
